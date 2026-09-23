@@ -26,10 +26,3 @@ I am a Software Analysis and Development student at FATEC São José dos Campos.
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300A8E8.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Wilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilianFerraz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WilianFerraz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
